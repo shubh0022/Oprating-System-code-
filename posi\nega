@@ -1,4 +1,4 @@
-#factoriasal in 
+#positive negative 
 if [ 58 -gt 56 ]; then
 echo "positve"
 else
